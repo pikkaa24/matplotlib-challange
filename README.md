@@ -1,5 +1,7 @@
 # matplotlib-challange
 
+Given data about mice in a tumor study, this code gives statistical summary of all mice each different treatment. It compares the treatment of interest (Capomulin) to a subset of the other treatment in regards to average and final tumor size. 
+
 Referenced https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.duplicated.html and https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html#pandas.DataFrame.drop_duplicates for assistance on how to identify and drop duplicates
 
 Referenced https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html for assistance on aggregation method of statistical summary.
